@@ -1,7 +1,7 @@
 # Samsung-Galaxy-S4-SGH-M919-T-Mobile-USA-Rom-Setup-Repo-by-CRDLG
 # Samsung Galaxy S4 — SGH-M919
 
-Note:The files required have been split into 2 releases due to github upload limits so make sure you have (PT1) and (PT2) with folders "01-06"
+Note:The files required have been split into a release called(the goods) Due to github upload limits so make sure you have (PT1) and (PT2) with folders "01-06"
 
 A preservation and modification archive for the **T-Mobile USA Samsung Galaxy S4 (SGH-M919)**.
 
