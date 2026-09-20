@@ -1,6 +1,8 @@
 # Samsung-Galaxy-S4-SGH-M919-T-Mobile-USA-Rom-Setup-Repo-by-CRDLG
 # Samsung Galaxy S4 — SGH-M919
 
+Note:The files required have been split into 2 releases due to github upload limits so make sure you have (PT1) and (PT2) with folders "01-06"
+
 A preservation and modification archive for the **T-Mobile USA Samsung Galaxy S4 (SGH-M919)**.
 
 This repository contains the files, tools, recoveries, firmware, ROMs, and notes used to modify **our specific SGH-M919** and install LineageOS 18.1.
